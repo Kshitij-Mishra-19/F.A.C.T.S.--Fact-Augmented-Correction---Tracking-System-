@@ -17,7 +17,7 @@ def main():
     For the initial draft, reproduce the following claims as written:
 
     1. Jupiter is the largest planet in the Solar System.
-    2. Earth is the largest planet in the Solar System.
+    2. Mercury is the largest planet in the Solar System.
     3. Saturn is famous for its prominent ring system.
 
     When reviewer feedback is provided on a later attempt, revise
